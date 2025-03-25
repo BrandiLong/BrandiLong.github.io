@@ -1,0 +1,19 @@
+:root
+{
+    background-color: pink;
+    background-repeat: repeat;
+    color: black;
+}
+h1
+{
+    font-family: Math Italic;
+    text-align: center;
+    font-size: 50pt;
+    margin: 15px;
+}
+nav ul li
+{
+    font-family: Symbol text;
+    font-size: 20pt;
+    margin: 0px;
+}
