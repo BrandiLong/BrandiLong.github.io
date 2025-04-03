@@ -21,7 +21,7 @@ h1
     font-family: Tropi Land;
     src: url("fonts/Tropi Land-(Demo) hanscostudio.com.ttf")
 }
-ul li
+li
 {
     font-family: Sans Serif;
     font-size: 40pt;
@@ -53,3 +53,4 @@ p
     font-size: 50pt;
     margin: 15px;
 }
+th
