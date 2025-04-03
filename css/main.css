@@ -11,9 +11,9 @@
 h1
 {
     font-family: Sunday Midnight;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
-    font-size: 50pt;
+    font-size: 60pt;
     margin: 15px;
 }
 @font-face
@@ -24,7 +24,7 @@ h1
 ul li
 {
     font-family: Sans Serif;
-    font-size: 30pt;
+    font-size: 40pt;
     margin: 5px;
 }
 img
@@ -40,6 +40,14 @@ height: 60px;
 h2
 {
     font-family: Tropi Land;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60pt;
+    margin: 15px;
+}
+p
+{
+    font-family: Sans Serif;
     font-weight: normal;
     text-align: center;
     font-size: 50pt;
