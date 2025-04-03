@@ -1,1 +1,34 @@
-
+:root
+{
+    background-color: rgb(255, 92, 201);
+    background-repeat: repeat;
+}
+@font-face
+{
+    font-family: Sunday Midnight;
+    src: url("fonts/Sunday Midnight Personal Use.otf")
+}
+h1
+{
+    font-family: Sunday Midnight;
+    
+    text-align: center;
+    font-size: 50pt;
+    margin: 15px;
+}
+@font-face
+{
+    font-family: Tropi Land;
+    src: url("fonts/Tropi Land- 9Demo) hanscostudio.com.ttf")
+}
+nav ul li
+{
+    font-family: Tropi Land;
+    font-size: 30pt;
+    margin: 5px;
+}
+img
+{
+width: 60px;
+height: 60px;
+}
