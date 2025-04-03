@@ -11,6 +11,7 @@
 h1
 {
     font-family: Sunday Midnight;
+    font-weight: normal;
     text-align: center;
     font-size: 50pt;
     margin: 15px;
@@ -30,4 +31,17 @@ img
 {
 width: 60px;
 height: 60px;
+}
+@font-face
+{
+    font-family: Sans Serif;
+    src: url("fonts/CreatoDisplay-Black.otf")
+}
+h2
+{
+    font-family: Sans Serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 50pt;
+    margin: 15px;
 }
