@@ -1,1 +1,57 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title> Resume - Brandi Long</title>
+  <meta chartset="UTF-8">    
+</head>
+<body>
+  <h1> Page Title</h1>
+  <nav>
+    <ul>
+      <li><a href="#contact">Contact Info</a></li>
+      <li><a href="#edu">Education</a></li>
+      <li><a href="#expnskills.html#exp">Experience</a></li>
+      <li><a href="#expnskills.html#skills">Skills</a></li>
+    </ul>
+  </nav>
+  <section id="contact">
+            <h2>Contact Info</h2>
+            <img src="images/IMG_5415.jpeg">
+            <ul>
+                <li>Phone: 970-888-2250</li>
+                <li>Email: long3718@bears.unco.edu</li>
+            </ul>     
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                  <h3> Aims Community College <span class="date">(May 2023)</span></h3>
+                   <ul>
+                       <li>Associates of Liberal Arts</li> 
+                   </ul>
+                  <h3>University of Northern Colorado <span class="date">(May 2025)</span></h3>
+                    <ul>
+                        <li>Major: Business Administration</li>
+                        <li>Certificates Earned: Ethical Leadership</li>
+                        <li>Certificates Earned: Entrepreneurship</li>
+                        <li>Certificates Earned: Digital Marketing</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section id="experience">
+            <h2>Experience</h2>
+            <ul>
+                <li>Senior Business Analyst @ UNC <span class="date">(Dec 2016 - <strong>Present</strong>)</span></li>
+                <li>Adjunct Faculty Lecturer for MCB @ UNC <span class="date">(Aug 2013 - <strong>Present</strong>)</span></li>
+                <li>Senior Systems Admin @ UNC <span class="date">(Feb 2015 - Dec 2016)</span></li>
+            </ul>
+        </section>
+    </body>
+</html>
+      <ul>
+          <li><a href="mailto:long3718@bears.unco.edu?subject=I want to hire you">long3718@bears.unco.edu</a></li>
+          <li></li>
+      </ul>
+</body>
