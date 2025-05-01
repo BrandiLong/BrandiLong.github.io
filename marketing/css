@@ -1,0 +1,62 @@
+:root
+{
+    background-color: rgb(255, 92, 201);
+    background-repeat: repeat;
+}
+@font-face
+{
+    font-family: Sunday Midnight;
+    src: url("fonts/Sunday Midnight Personal Use.otf")
+}
+h1
+{
+    font-family: Sunday Midnight;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60pt;
+    margin: 15px;
+}
+@font-face
+{
+    font-family: Tropi Land;
+    src: url("fonts/Tropi Land-(Demo) hanscostudio.com.ttf")
+}
+li
+{
+    font-family: Sans Serif;
+    font-size: 40pt;
+    margin: 5px;
+}
+img
+{
+height: 60px;
+}
+@font-face
+{
+    font-family: Sans Serif;
+    src: url("fonts/CreatoDisplay-Black.otf")
+}
+h2
+{
+    font-family: Tropi Land;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60pt;
+    margin: 15px;
+}
+p
+{
+    font-family: Sans Serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 50pt;
+    margin: 15px;
+}
+th
+{
+    font-family: Sans Serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 60pt;
+    margin: 15px;
+}
